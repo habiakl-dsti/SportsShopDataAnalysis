@@ -1,0 +1,2 @@
+- Improve data analysis
+- change figure 1 to bar plot
